@@ -8,13 +8,15 @@ I am a bioinformatic Ph.D student at Georgia Institute of Technology. I am very 
 
 ### More Information
 
-I obtained my Master degreee in Environemntal Science and Engineering from Tsinghua University, Beijng, China, under the superversion of [Dr. Jizhong Zhou](https://www.ou.edu/cas/mpbio/people/faculty/zhou) and [Dr. Yunfeng Yang](https://www.sigs.tsinghua.edu.cn/yyf_en/main.htm) I also visited Norwegian University of Life Science in Norway in 2018 during my Master, studying biogeochemistry, under the supervison of [Dr. Jan Mulder](https://www.nmbu.no/en/about/employees/jan-mulder). 
+I obtained my Master degreee in Environemntal Science and Engineering from Tsinghua University, Beijng, China, under the superversion of [Dr. Jizhong Zhou](https://www.ou.edu/cas/mpbio/people/faculty/zhou) and [Dr. Yunfeng Yang](https://www.sigs.tsinghua.edu.cn/yyf_en/main.htm). I also visited Norwegian University of Life Science in Norway in 2018 during my Master, studying biogeochemistry, under the supervison of [Dr. Jan Mulder](https://www.nmbu.no/en/about/employees/jan-mulder). 
 
 ### Personal Life
 
-I love basketball, video games (who knows how many times I have played the Red Dead Redemption 2). TO ARTHUR!
+I love basketball and video games (who knows how many times I have played the Red Dead Redemption 2 :joy:). TO ARTHUR!
 ![_config.yml]({{ site.baseurl }}/images/ARTHUR.jpg)
-I have a little baby, Grace, typical ginger cat with atypical personalities. She loves sleep next to my pillow. Cute and Cute!
+
+
+I have a little baby, Grace, typical ginger cat with atypical personalities. She loves sleep next to my pillow. Cute and Cute! 
 ![_config.yml]({{ site.baseurl }}/images/Grace.jpg)
 
 
