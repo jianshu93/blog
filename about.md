@@ -12,7 +12,7 @@ I obtained my Master degreee in Environemntal Science and Engineering from Tsing
 
 ### Personal Life
 
-I love basketball and video games (who knows how many times I have played the Red Dead Redemption 2 :joy:). TO ARTHUR!
+I love basketball and video games (who knows how many times I have played the Red Dead Redemption 2). TO ARTHUR!
 ![_config.yml]({{ site.baseurl }}/images/ARTHUR.jpg)
 
 

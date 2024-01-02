@@ -18,11 +18,11 @@ As you may notice, for below 80% ANI, fastANI is also less accurate (larger ANI 
 ![_config.yml]({{ site.baseurl }}/images/fastANI_correction_new_arrow.png)
 **Figure 3**. Linear correction of fastANI to approximate alignment-based ANI.
 
-This idea will be applied in the newest version of fastANI, which will be available soon!
+This has been applied in the newest version of fastANI, which is available [here](https://github.com/jianshu93/FastANI/releases/tag/v1.34). We will update the bioconda version soon.
+
 
 **References**:
 
 1.Jain, C., Dilthey, A., Koren, S., Aluru, S., and Phillippy, A.M. (2017) A fast approximate algorithm for mapping long reads to large reference databases. In International Conference on Research in Computational Molecular Biology: Springer, pp. 66-81.
-
 
 2.Jain, C., Rodriguez-R, L.M., Phillippy, A.M., Konstantinidis, K.T., and Aluru, S. (2018) High throughput ANI analysis of 90K prokaryotic genomes reveals clear species boundaries. Nature Communications 9: 5114.
