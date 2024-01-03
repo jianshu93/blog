@@ -15,10 +15,15 @@ FastANI or the recent skani  represent important breakthroughs of the field in t
 ![_config.yml]({{ site.baseurl }}/images/aniu_vs_bindash.png)
 **Figure 3**. Optimal Densificatiin MinHash ANI vs ANIu for the same 300 genomes.
 
-As you may notice, for below 80% ANI, fastANI is also less accurate (larger ANI values than ANIu) but very small variation. It is very easy to apply a linear correction as shown, from the blue fitted line (fastANI vs ANIu) to red fitted line to accuractly approximate alignment-based ANI without any additional computations. However, it is tedious to train such a linear model becasuse the all versus all alignment-based ANI for only several hundred genomes will take around a month or so on a single HPC node. We are now training a large-scale model with several thousand genomes (that is around 10 million ANI computations) using more than a thousand HPC nodes (each with a Intel(R) Xeon(R) Gold 6226 CPU).
+As you may notice, for below 80% ANI, fastANI is also less accurate (larger ANI values than ANIu) but very small variation. It is very easy to apply a linear correction as shown, from the blue fitted line (fastANI vs ANIu) to red fitted line to accuractly approximate alignment-based ANI without any additional computations. Essentially, we want to learn a linear model (slope) after fixing (100,100) to minimize RMSE, which can be expressed as:
+
+![_config.yml]({{ site.baseurl }}/images/RMSE.png)
+**Equation 1**. RMSE of FastANI using ANI_usearch as truth. 
+
+However, it is tedious to train such a linear model becasuse the all versus all alignment-based ANI for only several hundred genomes will take around a month or so on a single HPC node. We are now training a large-scale model with several thousand genomes (that is around 10 million ANI computations) using more than a thousand HPC nodes (each with a Intel(R) Xeon(R) Gold 6226 CPU).
 
 ![_config.yml]({{ site.baseurl }}/images/fastANI_correction_new_arrow.png)
-**Figure 3**. Linear correction of fastANI to approximate alignment-based ANI.
+**Figure 4**. Linear correction of fastANI to approximate alignment-based ANI.
 
 This has been applied in the newest version of fastANI (via the --correct option), which is available [here](https://github.com/jianshu93/FastANI/releases/tag/v1.34). We will update the bioconda version soon.
 
