@@ -8,7 +8,7 @@ I am currently a post doc in [Dr. Rob Knight's lab](https://knightlab.ucsd.edu) 
 
 ### More Information
 
-I obtained my Master degreee in Environemntal Science and Engineering from Tsinghua University, Beijng, China, under the superversion of [Dr. Jizhong Zhou](https://www.ou.edu/cas/mpbio/people/faculty/zhou) and [Dr. Yunfeng Yang](https://www.sigs.tsinghua.edu.cn/yyf_en/main.htm). I also visited Norwegian University of Life Science in Norway in 2018 during my Master, studying biogeochemistry, under the supervison of [Dr. Jan Mulder](https://www.nmbu.no/en/about/employees/jan-mulder). I did my undergraduate theis with [Dr. Qirong Shen's lab](http://faculty.njau.edu.cn/shenqirong/en/index.htm)
+I obtained my Master degreee in Environemntal Science and Engineering from Tsinghua University, Beijng, China, under the superversion of [Dr. Jizhong Zhou](https://www.ou.edu/cas/mpbio/people/faculty/zhou) and [Dr. Yunfeng Yang](https://www.sigs.tsinghua.edu.cn/yyf_en/main.htm). I also visited Norwegian University of Life Science in Norway in 2018 during my Master, studying biogeochemistry, under the supervison of [Dr. Jan Mulder](https://www.nmbu.no/en/about/employees/jan-mulder). I did my undergraduate theis with [Dr. Qirong Shen](http://faculty.njau.edu.cn/shenqirong/en/index.htm).
 
 ### Personal Life
 
