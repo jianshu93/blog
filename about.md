@@ -16,10 +16,10 @@ I love basketball (currently a fan of Minnesota Timberwolves) and video games (w
 ![_config.yml]({{ site.baseurl }}/images/ARTHUR.jpg)
 I also love Street Fighter 6 and I am on my way to be a professional player. My favourite character is CAMMY.
 ![_config.yml]({{ site.baseurl }}/images/CAMMY.jpg)
-I have a little baby, Grace, typical ginger cat with atypical personalities. She loves sleep next to my pillow. Cute and Cute! 
+I have a little baby, Grace, typical ginger cat with atypical personalities. She loves sleeping next to my pillow. Cute and Cute! 
 ![_config.yml]({{ site.baseurl }}/images/Grace.jpg)
 
 
 ### Contact me
 
-[jianshuzhao@yahoo.com](mailto:jianshuzhao@yahoo.com)
+[jianshuzhao@yahoo.com](mailto:jianshuzhao@yahoo.com) or [jiz322@ucsd.edu](mailto:jiz322@ucsd.edu)
