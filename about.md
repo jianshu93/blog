@@ -13,6 +13,12 @@ I am currently a postdoc in [Dr. Rob Knight's lab](https://knightlab.ucsd.edu) (
 
 #### Published or accepted 
 ##### 2025
+
+•	Jianshu Zhao, Genevieve Brandt, Jessica L Gronniger, Zhao Wang, Jiaqian Li, Dana E Hunt, Luis M Rodriguez-R, Janet K Hatt, Konstantinos T Konstantinidis, Quantifying the contribution of the rare biosphere to natural disturbances, The ISME Journal, 2025;, wraf129, https://doi.org/10.1093/ismejo/wraf129
+
+***This paper introduced an new idea to microbial ecology. That is using population genomes reconstructed from metagenome, to test ecological theories such as insurance hypothesis and specialization-disturbance hypothesis***. 
+
+
 •	Zhao, J., Pachiadaki, M., Conrad, R.E., Hatt, J.K., Bristow, L.A., Rodriguez-R, L.M., Rossello-Mora, R., Stewart, F.J. and Konstantinidis, K.T., 2025. Promiscuous and genome-wide recombination underlies the sequence-discrete species of the SAR11 lineage in the deep ocean. The ISME Journal, p.wraf072. https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wraf072/8115880 
 
 ***This paper studied the abundant marine population SAR11 and the underlying cohesive forces of species formation--homogonous recombination. SAR11 seems to adopt a very different recombination mechanism, approximating the lowest possible bound to be efficient***. 
