@@ -60,7 +60,8 @@ I am currently a postdoc in [Dr. Rob Knight's lab](https://knightlab.ucsd.edu) (
 •	Zongzhuan Shen, Shutang Zhong, Jianshu Zhao et.al., 2015. Effects of ammonia fumigation on soil microflora and banana production in an orchard with serious Fusarium wilt disease. Acta Ecologica Sinica, 35(9), pp.2946-2953
 
 #### Under Review
-•	Zhao, Jianshu, Brandt, G., Wang, Z., Hunt, D.E., Rodriguez-R, L.M., Hatt, J.K. and Konstantinidis, K.T. (2024) Microbial Response to Natural Disturbances: Rare Biosphere often plays a role. bioRxiv, 2024.2003.2006.583742. under review.
+Zhao, Jianshu, Pierre Both, Jean and Rob Knight. (2025) Ultra-fast and Efficient Network Embedding for Gigascale Biological Datasets. Under review.
+
 
 #### Preprint
 •	Zhao, Jianshu., Zhao, X., Pierre-Both, J. and Konstantinidis, K.T. (2024) BinDash 2.0: New MinHash Scheme Allows Ultra-fast and Accurate Genome Search and Comparisons. bioRxiv, 2024.2003.2013.584875.
