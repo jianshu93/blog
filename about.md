@@ -15,9 +15,9 @@ I am a Rustacean! I am a fan of parallel and concurrent programming. Go Ferris!
 ### Key Publication
 
 #### Under Review & Preprint
-•	Zhao, Jianshu, Pierre Both, Jean and Rob Knight. (2025) Ultra-fast and Efficient Network Embedding for Gigascale Biological Datasets. Under review.
+•	Zhao J, Both JP, Knight R. Ultra-fast and efficient network embedding for gigascale biological datasets. bioRxiv. 2025:2025.06.18.660497 [Link](https://doi.org/10.1101/2025.06.18.660497)
 
-•	Zhao, Jianshu., Zhao, X., Pierre-Both, J. and Konstantinidis, K.T. (2024) BinDash 2.0: New MinHash Scheme Allows Ultra-fast and Accurate Genome Search and Comparisons. bioRxiv, 2024.2003.2013.584875.
+•	Zhao J, Zhao X, Pierre-Both J et al. Bindash 2.0: New minhash scheme allows ultra-fast and accurate genome search and comparisons. bioRxiv. 2024:2024.03.13.584875 [Link](https://www.biorxiv.org/content/10.1101/2024.03.13.584875v1)
 
 #### Published or accepted 
 ##### 2025
@@ -72,7 +72,7 @@ I am a Rustacean! I am a fan of parallel and concurrent programming. Go Ferris!
 
 ### More Information
 
-I obtained my Master degreee in Environemntal Science and Engineering from Tsinghua University, Beijng, China, under the superversion of [Dr. Jizhong Zhou](https://www.ou.edu/cas/mpbio/people/faculty/zhou) (National Academy of Sciences). I also visited Norwegian University of Life Science in Norway in 2018 during my Master, studying biogeochemistry, under the supervison of [Dr. Jan Mulder](https://www.nmbu.no/en/about/employees/jan-mulder) (National Academy of Sciences, Norway). I did my undergraduate theis with [Dr. Qirong Shen](http://faculty.njau.edu.cn/shenqirong/en/index.htm) (National Academy of Engineering, China).
+I obtained my Master degreee in Environemntal Science and Engineering from Tsinghua University, Beijng, China. I also visited Norwegian University of Life Science in Norway in 2018 during my Master, studying biogeochemistry, under the supervison of [Dr. Jan Mulder](https://www.nmbu.no/en/about/employees/jan-mulder) (Norwegian Academy of Sciences). I did my undergraduate theis with [Dr. Qirong Shen](http://faculty.njau.edu.cn/shenqirong/en/index.htm) (National Academy of Engineering, China).
 
 
 ### Contact me
