@@ -6,10 +6,18 @@ permalink: /about/
 
 ![_config.yml]({{ site.baseurl }}/images/lab_website.png)
 
-I am currently a postdoc in [Dr. Rob Knight's lab](https://knightlab.ucsd.edu) (National Academy of Engineering, USA) at University of California, San Diego. I obtained my Ph.D in bioinformatics (minor in Computational Science and Engineering) at [Center for Bioinformatics and Computational Genomics](https://bioinformatics.gatech.edu), Georgia Institute of Technology. I obtained my Master degreee in Environemntal Science and Engineering from Tsinghua University, Beijng, China, under the superversion of [Dr. Jizhong Zhou](https://www.ou.edu/cas/mpbio/people/faculty/zhou) (National Academy of Sciences, USA). I am very insterested in designing and implementing data structures and algorithms to solve computational problems with respect to microbial genomes. Being the most diverse group on earth, tons of microbes (e.g. bacteria, phages) have been sequenced and more than 80% of the genomic sequences in NCBI are microbial genome sequences. A total of more than 150T microbial genomic sequences has been deposited and it is growing at a speed much faster than the development of transistors. Handling those huge amount of genomic sequences from microbes requires smart data structures, efficient algorithms and high performance computing. My research aim is to combine algorithm & data structure development, parallel and concurrent computing/programming with genome informatics to solve problems in large-scale genome information mining.
+I am currently a postdoc in [Dr. Rob Knight's lab](https://knightlab.ucsd.edu) (see also [here](https://www.nae.edu/312487/Dr-Rob-Knight)) at University of California, San Diego. I obtained my Ph.D in bioinformatics (minor in Computational Science and Engineering) at [Center for Bioinformatics and Computational Genomics](https://bioinformatics.gatech.edu), Georgia Institute of Technology. I obtained my Master degreee in Environemntal Science and Engineering from Tsinghua University, Beijng, China, under the superversion of [Dr. Jizhong Zhou](https://www.ou.edu/cas/mpbio/people/faculty/zhou) (see also [here](https://www.nasonline.org/directory-entry/jizhong-zhou-nwkro9/)). I am very insterested in designing and implementing data structures and algorithms to solve computational problems with respect to microbial genomes. Being the most diverse group on earth, tons of microbes (e.g. bacteria, phages) have been sequenced and more than 80% of the genomic sequences in NCBI are microbial genome sequences. A total of more than 150T microbial genomic sequences has been deposited and it is growing at a speed much faster than the development of transistors. Handling those huge amount of genomic sequences from microbes requires smart data structures, efficient algorithms and high performance computing. My research aim is to combine algorithm & data structure development, parallel and concurrent computing/programming with genome informatics to solve problems in large-scale genome information mining.
 
+I am a Rustacean! I am a fan of parallel and concurrent programming. Go Ferris!
+
+![_config.yml]({{ site.baseurl }}/images/Ferris_panicked.PNG)
 
 ### Key Publication
+
+#### Under Review & Preprint
+•	Zhao, Jianshu, Pierre Both, Jean and Rob Knight. (2025) Ultra-fast and Efficient Network Embedding for Gigascale Biological Datasets. Under review.
+
+•	Zhao, Jianshu., Zhao, X., Pierre-Both, J. and Konstantinidis, K.T. (2024) BinDash 2.0: New MinHash Scheme Allows Ultra-fast and Accurate Genome Search and Comparisons. bioRxiv, 2024.2003.2013.584875.
 
 #### Published or accepted 
 ##### 2025
@@ -59,12 +67,6 @@ I am currently a postdoc in [Dr. Rob Knight's lab](https://knightlab.ucsd.edu) (
 
 •	Zongzhuan Shen, Shutang Zhong, Jianshu Zhao et.al., 2015. Effects of ammonia fumigation on soil microflora and banana production in an orchard with serious Fusarium wilt disease. Acta Ecologica Sinica, 35(9), pp.2946-2953
 
-#### Under Review
-Zhao, Jianshu, Pierre Both, Jean and Rob Knight. (2025) Ultra-fast and Efficient Network Embedding for Gigascale Biological Datasets. Under review.
-
-
-#### Preprint
-•	Zhao, Jianshu., Zhao, X., Pierre-Both, J. and Konstantinidis, K.T. (2024) BinDash 2.0: New MinHash Scheme Allows Ultra-fast and Accurate Genome Search and Comparisons. bioRxiv, 2024.2003.2013.584875.
 
 
 
