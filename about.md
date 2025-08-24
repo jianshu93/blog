@@ -72,7 +72,7 @@ I am a Rustacean (锈真菌生物,my own translation, a user of the Rust program
 
 ### More Information
 
-During my Masters, I also visited Norwegian University of Life Science in Norway in 2018 during my Master, studying biogeochemistry, under the supervison of [Dr. Jan Mulder](https://www.nmbu.no/en/about/employees/jan-mulder) (Norwegian Academy of Sciences). I did my undergraduate theis with [Dr. Qirong Shen](http://faculty.njau.edu.cn/shenqirong/en/index.htm) (National Academy of Engineering, China).
+During my Master, I also visited Norwegian University of Life Science in Norway (2018), studying biogeochemistry, under the supervison of [Dr. Jan Mulder](https://www.nmbu.no/en/about/employees/jan-mulder) (Norwegian Academy of Sciences). I did my undergraduate theis with [Dr. Qirong Shen](http://faculty.njau.edu.cn/shenqirong/en/index.htm) (National Academy of Engineering, China).
 
 
 ### Contact me
