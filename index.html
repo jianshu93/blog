@@ -16,3 +16,18 @@ layout: default
     </article>
   {% endfor %}
 </div>
+
+<div class="news">
+  {% for post in site.posts %}
+    <article class="new">
+
+      <h1><a href="{{ site.baseurl }}{{ new.url }}">{{ new.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ new.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
