@@ -15,12 +15,17 @@ I am a Rustacean (锈真菌生物,my own translation, a user of the Rust program
 ### Key Publication
 
 #### Under Review & Preprint
+
 •	Zhao J, Both JP, Knight R. Ultra-fast and efficient network embedding for gigascale biological datasets. bioRxiv. 2025:2025.06.18.660497 [Link](https://doi.org/10.1101/2025.06.18.660497)
 
 •	Zhao J, Zhao X, Pierre-Both J et al. Bindash 2.0: New minhash scheme allows ultra-fast and accurate genome search and comparisons. bioRxiv. 2024:2024.03.13.584875 [Link](https://www.biorxiv.org/content/10.1101/2024.03.13.584875v1)
 
+•   Oles R. et.al. 2025. Comparative genomic analysis of gut-resident and extra-intestinal Bacteroides fragilis strains. 
+
 #### Published or accepted 
 ##### 2025
+
+•   Aton et.al.. Scikit-bio: a fundamental Python library for biological omic data analysis, Nature Methods, 2025. Accecpted, link to come
 
 •	Jianshu Zhao, Genevieve Brandt, Jessica L Gronniger, Zhao Wang, Jiaqian Li, Dana E Hunt, Luis M Rodriguez-R, Janet K Hatt, Konstantinos T Konstantinidis, Quantifying the contribution of the rare biosphere to natural disturbances, The ISME Journal, 2025;, wraf129, https://doi.org/10.1093/ismejo/wraf129
 
