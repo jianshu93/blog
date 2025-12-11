@@ -25,7 +25,7 @@ I am a Rustacean (锈真菌生物,my own translation, a user of the Rust program
 #### Published or accepted 
 ##### 2025
 
-•   Aton et.al.. Scikit-bio: a fundamental Python library for biological omic data analysis, Nature Methods, 2025. Accecpted, link to come
+•   Aton et.al., Scikit-bio: a fundamental Python library for biological omic data analysis, Nature Methods, 2025. DOI: https://doi.org/10.1038/s41592-025-02981-z
 
 •	Jianshu Zhao, Genevieve Brandt, Jessica L Gronniger, Zhao Wang, Jiaqian Li, Dana E Hunt, Luis M Rodriguez-R, Janet K Hatt, Konstantinos T Konstantinidis, Quantifying the contribution of the rare biosphere to natural disturbances, The ISME Journal, 2025;, wraf129, https://doi.org/10.1093/ismejo/wraf129
 
