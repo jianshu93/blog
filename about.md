@@ -15,7 +15,6 @@ I am a Rustacean (锈真菌生物,my own translation, a user of the Rust program
 ### Key Publication
 
 #### Under Review & Preprint
-•	Zhao, J., McDonald, D., Sfiligoi, I., Lladser, M.E., Patel, L., Weng, Y., Khatib, L., Degregori, S., Gonzalez, A., Lozupone, C. and Knight, R., 2026. Enabling Megascale Microbiome Analysis with DartUniFrac. bioRxiv, pp.2026-03. doi: https://doi.org/10.64898/2026.03.01.708916
 
 •	Zhao J, Both JP, Knight R. Ultra-fast and efficient network embedding for gigascale biological datasets. bioRxiv. 2025:2025.06.18.660497 [Link](https://doi.org/10.1101/2025.06.18.660497)
 
@@ -23,12 +22,17 @@ I am a Rustacean (锈真菌生物,my own translation, a user of the Rust program
 
 •   Oles, R.E., Terrazas, M.C., Loomis, L.R., Neal, M.J., Paulchakrabarti, M., Zuffa, S., Hsu, C.Y., Zhao, J., Vasquez Ayala, A., Lee, M.H., Tribelhorn, C. and Belda-Ferre, P., 2024. Pathogenic Bacteroides fragilis strains can emerge from gut-resident commensals. bioRxiv: 2024.06. 19.599758
 
-•   Bartko, A., Khatib, L., Oles, R., Hernández, A., Myers, T., Zhao, J., Kumar, M., Garcia, A., Tolosa, V., Matsunami, N. and Suzuki, D., 2026. The Human Diets & Microbiome Initiative: A five-country analysis of geographic and dietary drivers of gut microbiome composition and genomic variation.
 
 #### Published or accepted 
 ##### 2025
 
+•	Zhao, J., McDonald, D., Sfiligoi, I., Lladser, M.E., Patel, L., Weng, Y., Khatib, L., Degregori, S., Gonzalez, A., Lozupone, C. and Knight, R., 2026. Enabling Megascale Microbiome Analysis with DartUniFrac. bioRxiv, pp.2026-03. doi: https://doi.org/10.64898/2026.03.01.708916. Accecpted. To be published.
+
+•   Khatib, L., Oles, R., Hernández, A., Myers, T., Zhao, J., Kumar, M., Garcia, A., Tolosa, V., Matsunami, N., Suzuki, D., Bartko, A., and Knight R., 2026. The Human Diets & Microbiome Initiative: A five-country analysis of geographic and dietary drivers of gut microbiome composition and genomic variation. Accepted by Nature communication. To be published.
+
+
 •   Aton et.al., Scikit-bio: a fundamental Python library for biological omic data analysis, Nature Methods, 2025. DOI: https://doi.org/10.1038/s41592-025-02981-z
+
 
 •	Jianshu Zhao, Genevieve Brandt, Jessica L Gronniger, Zhao Wang, Jiaqian Li, Dana E Hunt, Luis M Rodriguez-R, Janet K Hatt, Konstantinos T Konstantinidis, Quantifying the contribution of the rare biosphere to natural disturbances, The ISME Journal, 2025;, wraf129, https://doi.org/10.1093/ismejo/wraf129
 
