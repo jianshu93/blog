@@ -26,7 +26,7 @@ I am a Rustacean (锈真菌生物,my own translation, a user of the Rust program
 #### Published or accepted 
 ##### 2025
 
-•	Zhao, J., McDonald, D., Sfiligoi, I., Lladser, M.E., Patel, L., Weng, Y., Khatib, L., Degregori, S., Gonzalez, A., Lozupone, C. and Knight, R., 2026. Enabling Megascale Microbiome Analysis with DartUniFrac. bioRxiv, pp.2026-03. doi: https://doi.org/10.64898/2026.03.01.708916. Accecpted. To be published.
+•	Zhao, J., McDonald, D., Sfiligoi, I., Lladser, M.E., Patel, L., Weng, Y., Khatib, L., Degregori, S., Gonzalez, A., Lozupone, C. and Knight, R., 2026. Megascale Microbiome Analysis with DartUniFrac. bioRxiv, pp.2026-03. doi: https://doi.org/10.64898/2026.03.01.708916. Accecpted. To be published.
 
 •   Khatib, L., Oles, R., Hernández, A., Myers, T., Zhao, J., Kumar, M., Garcia, A., Tolosa, V., Matsunami, N., Suzuki, D., Bartko, A., and Knight R., 2026. The Human Diets & Microbiome Initiative: A five-country analysis of geographic and dietary drivers of gut microbiome composition and genomic variation. Accepted by Nature communication. To be published.
 
