@@ -89,4 +89,4 @@ During my Master, I also visited Norwegian University of Life Science in Norway 
 
 ### Contact me
 
-[jianshuzhao@yahoo.com](mailto:jianshuzhao@yahoo.com) or [jiz322@ucsd.edu](mailto:jiz322@ucsd.edu)
+jianshuzhao at yahoo.com
