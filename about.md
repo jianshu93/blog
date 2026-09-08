@@ -29,7 +29,7 @@ I am a Rustacean (锈真菌生物,my own translation, a user of the Rust program
 ***This paper makes the computations of fundamental biological community distance metric scalable and ready for the deep learning-based model training.***
 
 
-•   Khatib, L., Oles, R., Hernández, A., Myers, T., Zhao, J., Kumar, M., Garcia, A., Tolosa, V., Matsunami, N., Suzuki, D., Bartko, A., and Knight R., 2026. The Human Diets & Microbiome Initiative: A five-country analysis of geographic and dietary drivers of gut microbiome composition and genomic variation. Accepted by Nature communication. To be published.
+•   Khatib, L., Oles, R., Hernández, A., Myers, T., Zhao, J., Kumar, M., Garcia, A., Tolosa, V., Matsunami, N., Suzuki, D., Bartko, A., and Knight R., 2026. The Human Diets & Microbiome Initiative: A five-country analysis of geographic and dietary drivers of gut microbiome composition and genomic variation. Accepted by Nature Communication. To be published.
 
 
 •   Aton et.al., Scikit-bio: a fundamental Python library for biological omic data analysis, Nature Methods, 2025. DOI: https://doi.org/10.1038/s41592-025-02981-z
