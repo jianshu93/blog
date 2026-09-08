@@ -31,8 +31,7 @@ I am a Rustacean (锈真菌生物,my own translation, a user of the Rust program
 •   Khatib, L., Oles, R., Hernández, A., Myers, T., Zhao, J., Kumar, M., Garcia, A., Tolosa, V., Matsunami, N., Suzuki, D., Bartko, A., and Knight R., 2026. The Human Diets & Microbiome Initiative: A five-country analysis of geographic and dietary drivers of gut microbiome composition and genomic variation. Accepted by Nature Communication. To be published.
 
 
-•   Aton et.al., Scikit-bio: a fundamental Python library for biological omic data analysis, Nature Methods, 2025. DOI: https://doi.org/10.1038/s41592-025-02981-z
-
+•   Aton, M., McDonald, D., Cañardo Alastuey, J., Azom, R., Batra, P., Bezshapkin, V., Bolyen, E., Cagle, A., Caporaso, J.G., Debelius, J.W. and Gorlick, K., 2026. Scikit-bio: a fundamental Python library for biological omic data analysis. Nature Methods, 23(2), pp.274-276.
 
 •   Oles, R.E., Carrillo Terrrazas, M., Loomis, L.R., Zuffa, S., Neal, M.J., Hsu, C.Y., Vasquez Ayala, A., Tribelhorn, C., Belda-Ferre, P., Zhao, J. and Bryant, M., 2026. Comparative genomic analysis of Bacteroides fragilis from intestinal and extra-intestinal sites. Microbiology Spectrum, pp.e00306-26.
 
