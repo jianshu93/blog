@@ -22,7 +22,8 @@ I am a Rustacean (锈真菌生物,my own translation, a user of the Rust program
 
 
 #### Published or accepted 
-##### 2025
+##### 2026
+
 
 •	  Zhao, J., McDonald, D., Sfiligoi, I., Lladser, M.E., Patel, L., Weng, Y., Khatib, L., Degregori, S., Gonzalez, A., Lozupone, C.A. and Knight, R., 2026. Megascale microbiome analysis with DartUniFrac. Nature Biotechnology, pp.1-7.
 
@@ -38,7 +39,7 @@ I am a Rustacean (锈真菌生物,my own translation, a user of the Rust program
 •   Oles, R.E., Carrillo Terrrazas, M., Loomis, L.R., Zuffa, S., Neal, M.J., Hsu, C.Y., Vasquez Ayala, A., Tribelhorn, C., Belda-Ferre, P., Zhao, J. and Bryant, M., 2026. Comparative genomic analysis of Bacteroides fragilis from intestinal and extra-intestinal sites. Microbiology Spectrum, pp.e00306-26.
 
 
-
+##### 2025
 •	Jianshu Zhao, Genevieve Brandt, Jessica L Gronniger, Zhao Wang, Jiaqian Li, Dana E Hunt, Luis M Rodriguez-R, Janet K Hatt, Konstantinos T Konstantinidis, Quantifying the contribution of the rare biosphere to natural disturbances, The ISME Journal, 2025;, wraf129, https://doi.org/10.1093/ismejo/wraf129
 
 ***This paper introduces a new idea to microbial ecology: using population genomes reconstructed from metagenomes to test ecological theories, such as the insurance hypothesis and the specialization–disturbance hypothesis***. 
