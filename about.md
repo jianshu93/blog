@@ -20,18 +20,23 @@ I am a Rustacean (锈真菌生物,my own translation, a user of the Rust program
 
 •	Zhao J, Zhao X, Pierre-Both J et al. Bindash 2.0: New minhash scheme allows ultra-fast and accurate genome search and comparisons. bioRxiv. 2024:2024.03.13.584875 [Link](https://www.biorxiv.org/content/10.1101/2024.03.13.584875v1)
 
-•   Oles, R.E., Terrazas, M.C., Loomis, L.R., Neal, M.J., Paulchakrabarti, M., Zuffa, S., Hsu, C.Y., Zhao, J., Vasquez Ayala, A., Lee, M.H., Tribelhorn, C. and Belda-Ferre, P., 2024. Pathogenic Bacteroides fragilis strains can emerge from gut-resident commensals. bioRxiv: 2024.06. 19.599758
-
 
 #### Published or accepted 
 ##### 2025
 
-•	Zhao, J., McDonald, D., Sfiligoi, I., Lladser, M.E., Patel, L., Weng, Y., Khatib, L., Degregori, S., Gonzalez, A., Lozupone, C. and Knight, R., 2026. Megascale Microbiome Analysis with DartUniFrac. bioRxiv, pp.2026-03. doi: https://doi.org/10.64898/2026.03.01.708916. Accecpted. To be published.
+•	  Zhao, J., McDonald, D., Sfiligoi, I., Lladser, M.E., Patel, L., Weng, Y., Khatib, L., Degregori, S., Gonzalez, A., Lozupone, C.A. and Knight, R., 2026. Megascale microbiome analysis with DartUniFrac. Nature Biotechnology, pp.1-7.
+
+***This paper makes the computations of fundamental biological community distance metric scalable and ready for the deep learning-based model training.***
+
 
 •   Khatib, L., Oles, R., Hernández, A., Myers, T., Zhao, J., Kumar, M., Garcia, A., Tolosa, V., Matsunami, N., Suzuki, D., Bartko, A., and Knight R., 2026. The Human Diets & Microbiome Initiative: A five-country analysis of geographic and dietary drivers of gut microbiome composition and genomic variation. Accepted by Nature communication. To be published.
 
 
 •   Aton et.al., Scikit-bio: a fundamental Python library for biological omic data analysis, Nature Methods, 2025. DOI: https://doi.org/10.1038/s41592-025-02981-z
+
+
+•   Oles, R.E., Carrillo Terrrazas, M., Loomis, L.R., Zuffa, S., Neal, M.J., Hsu, C.Y., Vasquez Ayala, A., Tribelhorn, C., Belda-Ferre, P., Zhao, J. and Bryant, M., 2026. Comparative genomic analysis of Bacteroides fragilis from intestinal and extra-intestinal sites. Microbiology Spectrum, pp.e00306-26.
+
 
 
 •	Jianshu Zhao, Genevieve Brandt, Jessica L Gronniger, Zhao Wang, Jiaqian Li, Dana E Hunt, Luis M Rodriguez-R, Janet K Hatt, Konstantinos T Konstantinidis, Quantifying the contribution of the rare biosphere to natural disturbances, The ISME Journal, 2025;, wraf129, https://doi.org/10.1093/ismejo/wraf129
