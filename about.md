@@ -23,8 +23,6 @@ I am a Rustacean (锈真菌生物,my own translation, a user of the Rust program
 
 #### Published or accepted 
 ##### 2026
-
-
 •	  Zhao, J., McDonald, D., Sfiligoi, I., Lladser, M.E., Patel, L., Weng, Y., Khatib, L., Degregori, S., Gonzalez, A., Lozupone, C.A. and Knight, R., 2026. Megascale microbiome analysis with DartUniFrac. Nature Biotechnology, pp.1-7.
 
 ***This paper makes the computations of fundamental biological community distance metric scalable and ready for the deep learning-based model training.***
